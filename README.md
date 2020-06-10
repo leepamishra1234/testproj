@@ -1,2 +1,0 @@
-# testproj
-Test Project
